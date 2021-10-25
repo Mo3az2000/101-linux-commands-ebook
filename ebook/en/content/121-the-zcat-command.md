@@ -20,6 +20,14 @@ hello
 Hello world
 ```
 
+### Syntax:
 
+There are two ways to do this. Either you can use the standard more and less commands.
 
+```
+zcat [FILENAME] | more
+```
 
+```
+zcat [FILENAME] | less
+```
