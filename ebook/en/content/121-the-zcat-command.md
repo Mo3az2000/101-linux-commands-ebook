@@ -22,12 +22,9 @@ Hello world
 
 ### Syntax:
 
-There are two ways to do this. Either you can use the standard more and less commands.
+The general syntax for the `zcat` command is as follows:
 
 ```
-zcat [FILENAME] | more
+zcat [  -n ] [  -V ] [  File ... ]
 ```
 
-```
-zcat [FILENAME] | less
-```
